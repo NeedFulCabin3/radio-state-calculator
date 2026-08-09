@@ -1,4 +1,5 @@
-# css-state-evaluator
+# Radio State Calculator
+
 
 An arithmetic calculation engine that evaluates addition directly within the rendering pipeline using pure selector combinators and counters.
 
@@ -43,7 +44,7 @@ You do not need a terminal or a local development environment.
 ## Project Structure
 
 ```text
-css-state-evaluator/
+radio-state-calculator/
 ├── .github/
 │   └── workflows/
 │       └── validate-markup.yml  # Automated markup validation workflow
